@@ -1,0 +1,32 @@
+[
+    {
+    "Name": "Transform your everyday business processes with agents",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/AnandSShekhawat/MS-4019/refs/heads/main/Getting-started.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/AnandSShekhawat/MS-4019/refs/heads/main/EX1.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/AnandSShekhawat/MS-4019/refs/heads/main/EX2.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/AnandSShekhawat/MS-4019/refs/heads/main/EX3.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/AnandSShekhawat/MS-4019/refs/heads/main/EX4.md",
+        "Order": 5
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/AnandSShekhawat/MS-4019/refs/heads/main/EX5.md",
+        "Order": 6
+      }
+    ]
+    }
+]
